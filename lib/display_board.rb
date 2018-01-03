@@ -24,3 +24,4 @@ board2 = ["O", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
 display_board(board2)   
 board3 = ["X", "X", "X", "   ", "   ", "   ", "   ", "   ", "   "]
 display_board(board3)
+board4 = ["   ", "   ", "   ", "   ", "X", "   ", "O", "O", "O"]
