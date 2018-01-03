@@ -18,4 +18,6 @@ def display_board(board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   
   puts "-----------"
   puts "   " + "|" + "   " + "|" + "   "
 end
-
+display_board(board = ["   ", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "])
+display_board(board = ["O", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "])
+display_board(board = ["X", "X", "X", "   ", "X", "   ", "   ", "   ", "   "])
