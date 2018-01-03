@@ -11,13 +11,13 @@ def display_board(board)
  puts "#{board[6]} + "|" + #{board[7]} + "|" + #{board[8]}"
 end
 
-def display_board(board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "])
-  puts "   " + "|" + "   " + "|" + "   "
-  puts "-----------"
-  puts "   " + "|" + "   " + "|" + "   "
-  puts "-----------"
-  puts "   " + "|" + "   " + "|" + "   "
-end
+# def display_board(board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "])
+#   puts "   " + "|" + "   " + "|" + "   "
+#   puts "-----------"
+#   puts "   " + "|" + "   " + "|" + "   "
+#   puts "-----------"
+#   puts "   " + "|" + "   " + "|" + "   "
+# end
 board1 = ["   ", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
 display_board(board1)   
 board2 = ["O", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
