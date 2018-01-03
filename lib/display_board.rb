@@ -18,11 +18,11 @@ end
 #   puts "-----------"
 #   puts "   " + "|" + "   " + "|" + "   "
 # end
-board1 = ["   ", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
-display_board(board1)   
-board2 = ["O", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
-display_board(board2)   
-board3 = ["X", "X", "X", "   ", "   ", "   ", "   ", "   ", "   "]
-display_board(board3)
-board4 = ["   ", "   ", "   ", "   ", "   ", "   ", "O", "O", "O"]
-board5 = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
+# board1 = ["   ", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
+# display_board(board1)   
+# board2 = ["O", "   ", "   ", "   ", "X", "   ", "   ", "   ", "   "]
+# display_board(board2)   
+# board3 = ["X", "X", "X", "   ", "   ", "   ", "   ", "   ", "   "]
+# display_board(board3)
+# board4 = ["   ", "   ", "   ", "   ", "   ", "   ", "O", "O", "O"]
+# board5 = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
